@@ -711,7 +711,7 @@ figure.port-item:hover p.icon-links a:focus {
 figure.port-item p.description {
     position: absolute;
     bottom: 5em;
-    padding: 4em;
+    padding: 3em;
     color: #fff;
     text-transform: none;
     font-size: 90%;
