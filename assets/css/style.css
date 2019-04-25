@@ -689,7 +689,7 @@ hr.line-title-left {
 figure.port-item figcaption {
     top: auto;
     bottom: 0;
-    padding: 1em;
+    padding: 4em;
     height: 3.75em;
     color: #fff;
     -webkit-transition: -webkit-transform 0.35s;
